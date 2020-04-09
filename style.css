@@ -1,0 +1,93 @@
+  /* style.css */
+
+  body {
+    background: rgb(245,245,245);
+    color: green;
+    font-size: 25px;
+    font-family: Helvetica;
+  }
+  h1 {
+    font-family: Courier;
+    color: red;
+    font-weight: lighter;
+    font-size: 100px;
+  }
+  h2 {
+    font-family: Courier;
+    color: pink;
+    font-weight: lighter;
+    font-size: 8px;
+  }
+  a {
+    color: yellow;
+  }
+  a:hover {
+    text-decoration: none;
+    color: purple;
+  } 
+
+
+  #banner{
+    text-align: center;
+    background: black;
+    background-size: cover;
+    padding: 70px;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+  }
+  #banner h1 {
+    color: white;
+    font-size: 50px;
+  }
+  #banner a {
+    color: white;
+    margin: 30px;
+  }
+  }
+  #banner p {
+    color: white;
+    opacity: 0.8;
+    font-size: 30px;
+    font-weight: lighter;
+  }
+ .card{
+    padding: 30px;
+    font-weight: lighter;
+    text-align: center;
+    border-radius: 25px;
+    margin: 10px;
+  }
+
+  .card p {
+    color: black;
+  }
+  h1 {
+    padding
+  }
+  .card h2 {
+    color: red;
+    font-size: 22px;
+    text-align: center;
+  }
+
+#footer {
+background: black;
+}
+  #footer a {
+    color: lightgray;
+    font-size: 15px;
+    margin: 0px;
+
+  }
+  #footer a:hover {
+    color: black;
+  }
+  #footer p {
+
+ text-align:center;
+    color: grey ;
+  }
+  #footer ul
+  {
+    text-align: center;
+  }
